@@ -1,0 +1,1 @@
+<?php /*?>Using home.php instesd of index.php for the Home page.<?php */?>
